@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: aa45af4710d541945bdbf002bf2ac9b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trafficCarPrefab: {fileID: 919132149155446097, guid: 3a798f918b73de243be20d60383b2144, type: 3}
+  - playerCar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
