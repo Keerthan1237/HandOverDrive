@@ -75,8 +75,9 @@ The player controls a car using **hand gestures captured via a webcam**, creatin
 ---
 
 ## 🎮 Controls:
-- Hand tilt → Steering
-- Forward hand → Accelerate
+- Hand left and right (Right hand only) → Steering
+- Open palm (Left hand only)→ Accelerate
+- Close hand(Fist)(Left hand only → Brake 
 - Collision → Game Over
 
 ---
