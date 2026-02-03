@@ -90,6 +90,9 @@ The player controls a car using **hand gestures captured via a webcam**, creatin
 
 ---
 
+The original demo video had bad rendering due to laptop issues as our main laptop crashed before the submission so heres the actual video of the game way the map renders and a game with better features. 
+https://youtu.be/ncWu1HyNCKA
+
 ## 🏁 Conclusion
 
 HandOverDrive demonstrates how **computer vision** can be combined with **game development** to create a unique, interactive experience. It showcases innovation, teamwork, and practical application of modern technologies.
